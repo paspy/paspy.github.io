@@ -58,4 +58,10 @@ At port, upgrade your ships in various ways that fit your playstyle. Buy crew to
   <source src='http://gameproject.fullsail.com/gpgames/projects/June2016/Full Sail/June2016FSmovie.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
 </video>
 
-#### Source and Executable
+#### Source
+[Download Source](https://github.com/paspy/FullSail/archive/master.zip)
+
+*System requirements*
+ * Visual Studio 2015
+ * Windows 8.1 or above
+ * A DirectX 11 compatable device
