@@ -10,7 +10,7 @@ gems: [jekyll-paginate,jekyll-gist]
 # Setup
 title:            Chen Lu
 tagline:          'Game Programmer Portfolio'
-description:      'Game Programmer Portfolio Site'
+description:      'Chen Lu Portfolio Site'
 url:              http://paspy.me/
 baseurl:          /
 
