@@ -17,7 +17,7 @@ The player selects, controls and orders his units around the battle map seeking 
   * Spawner
   * Events/Traps Trigger
 * Fog of War
-* Enemy AI
+* Enemy AI design and scripting
 
 #### Screenshots
 <p>

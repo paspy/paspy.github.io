@@ -17,7 +17,7 @@ At port, upgrade your ships in various ways that fit your playstyle. Buy crew to
 * Particle System
   * GPU rendering effects
   * Variety effect shaders
-* HUD
+* HUD and UIs
 
 #### Screenshots
 <p>
