@@ -59,9 +59,8 @@ At port, upgrade your ships in various ways that fit your playstyle. Buy crew to
 </video>
 
 #### Downloads
-[Source](https://github.com/paspy/FullSail/archive/master.zip)
-
-[Installer](http://gameproject.fullsail.com/gpgames/projects/June2016/Full%20Sail/June2016FSinstall.zip)
+  * [Source](https://github.com/paspy/FullSail/archive/master.zip)
+  * [Installer](http://gameproject.fullsail.com/gpgames/projects/June2016/Full%20Sail/June2016FSinstall.zip)
 
 *System Requirements*
  * Windows 8.1 or above

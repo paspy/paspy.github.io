@@ -44,10 +44,8 @@ The player selects, controls and orders his units around the battle map seeking 
 </p>
 
 #### Download
-
-[Andorid Installer](https://github.com/paspy/paspy.github.io/releases/download/Apoptosis_default/Apoptosis.apk)
-
-[Windows Installer](https://github.com/paspy/paspy.github.io/releases/download/Apoptosis_default/Apoptosis_Installer.exe)
+  * [Andorid Installer](https://github.com/paspy/paspy.github.io/releases/download/Apoptosis_default/Apoptosis.apk)
+  * [Windows Installer](https://github.com/paspy/paspy.github.io/releases/download/Apoptosis_default/Apoptosis_Installer.exe)
 
 *PC Requirements*
  * Windows 8.1 or above

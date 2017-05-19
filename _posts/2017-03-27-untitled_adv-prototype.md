@@ -55,9 +55,8 @@ It's for an internship prototype test and took about two weeks to finish.
 </p>
 
 #### Downloads
-[Source](https://github.com/paspy/SURVIOS_ADV/archive/master.zip)
-
-[Binary](https://github.com/paspy/SURVIOS_ADV/releases/download/First_Playable_version/SURVIOS_ADV.zip)
+  * [Source](https://github.com/paspy/SURVIOS_ADV/archive/master.zip)
+  * [Binary](https://github.com/paspy/SURVIOS_ADV/releases/download/First_Playable_version/SURVIOS_ADV.zip)
 
 *System Requirements*
  * Windows 8.1 or above
