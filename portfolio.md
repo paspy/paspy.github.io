@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Past Projects
+title: Projects
 icon: fa-th
 order: 2
 ---
